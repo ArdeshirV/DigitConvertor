@@ -1,0 +1,13 @@
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\ArdeshirV.Forms.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\ArdeshirV.Tools.QrCode.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\obj\Debug\ArdeshirV.Applications.TestDigitConvertor.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\obj\Debug\ArdeshirV.Applications.TestDigitConvertor.FormMain.resources
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\obj\Debug\ArdeshirV.Applications.TestDigitConvertor.csproj.GenerateResource.Cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\obj\Debug\TestDigitConvertor.exe
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\obj\Debug\TestDigitConvertor.pdb
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\TestDigitConvertor.exe.config
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\TestDigitConvertor.exe
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\TestDigitConvertor.pdb
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\ArdeshirV.Tools.DigitConvertor.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\bin\Debug\ArdeshirV.Tools.DigitConvertor.pdb
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Applications.TestDigitConvertor\obj\Debug\ArdeshirV.Applications.TestDigitConvertor.Properties.Resource.resources

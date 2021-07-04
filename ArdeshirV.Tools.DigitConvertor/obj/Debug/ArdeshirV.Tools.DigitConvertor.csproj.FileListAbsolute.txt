@@ -1,0 +1,8 @@
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\bin\Debug\ArdeshirV.Tools.DigitConvertor.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\bin\Debug\ArdeshirV.Tools.DigitConvertor.pdb
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\obj\Debug\ArdeshirV.Tools.DigitConvertor.csprojAssemblyReference.cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\obj\Debug\ArdeshirV.Tools.DigitConvertor.Properties.Resource.resources
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\obj\Debug\ArdeshirV.Tools.DigitConvertor.csproj.GenerateResource.cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\obj\Debug\ArdeshirV.Tools.DigitConvertor.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\obj\Debug\ArdeshirV.Tools.DigitConvertor.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.Tools.DigitConvertor\ArdeshirV.Tools.DigitConvertor\obj\Debug\ArdeshirV.Tools.DigitConvertor.pdb
