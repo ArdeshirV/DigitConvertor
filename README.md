@@ -8,7 +8,7 @@ textboxOutput.Text =
 					nupdownNumber.Value   // The decimal number
 				);
 </pre>
-<img width="30%" src="https://raw.githubusercontent.com/ArdeshirV/DigitConvertor/main/ArdeshirV.Applications.TestDigitConvertor/img/TestDigitConvertor.png" alt="Test DigitalConvertor Windows-Forms Application">
+<img width="60%" src="https://raw.githubusercontent.com/ArdeshirV/DigitConvertor/main/ArdeshirV.Applications.TestDigitConvertor/img/TestDigitConvertor.png" alt="Test DigitalConvertor Windows-Forms Application">
 <br/><br/>
 DigitConvertor provides conversion from western numbers to/from Persian/Arabic numbers and also provides conversion from digital numbers to Persian-alphabetic numbers.
 <img width="80%" src="https://raw.githubusercontent.com/ArdeshirV/DigitConvertor/main/ArdeshirV.Applications.TestDigitConvertor/img/AboutTestDigitConvertor.png" alt="About TestDigitConvertor Application">
