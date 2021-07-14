@@ -12,8 +12,7 @@ textboxOutput.Text =
 <br/><br/>
 DigitConvertor provides conversion from western numbers to/from Persian/Arabic numbers and also provides conversion from digital numbers to Persian-alphabetic numbers.
 <img width="80%" src="https://raw.githubusercontent.com/ArdeshirV/DigitConvertor/main/ArdeshirV.Applications.TestDigitConvertor/img/AboutTestDigitConvertor.png" alt="About TestDigitConvertor Application">
-
-<br/>
+<br/><br/>
 
 
 ## Please Donate!
@@ -78,5 +77,5 @@ Cardano: DdzFFzCqrhsoSn5qvqRTovUkr1XHWy9LvbvDHVYFoFFyxAJkf1bT4X4ySpm8DwFqDo3EWAn
 Monero: 42dJ7dWZjHyV4bzL4uVcS6cYnNfSvtXQyJaZ83yj4xALMiZoEMuja5SdcMHZS3Ai1eDCF9D5RDzgrHoyngckf38yC2MM42y
 
 ![Monero: 42dJ7dWZjHyV4bzL4uVcS6cYnNfSvtXQyJaZ83yj4xALMiZoEMuja5SdcMHZS3Ai1eDCF9D5RDzgrHoyngckf38yC2MM42y](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Monero%2042dJ7dWZjHyV4bzL4uVcS6cYnNfSvtXQyJaZ83yj4xALMiZoEMuja5SdcMHZS3Ai1eDCF9D5RDzgrHoyngckf38yC2MM42y.png)
-
+<br/><br/><br/>
 <p style="text-align: center; width: 100%; ">Copyright&copy; 2021 <a href="mailto:ArdeshirV@protonmail.com">ArdeshirV@protonmail.com</a>, Licensed under GPL<sup>v3+</sup></p>
